@@ -9,7 +9,7 @@ do a bunch of learning coding in free time. I'm currently study in Highschool. F
 *   🌍  I'm based in Chonburi , Thailand
 *   ✉️  You can contact me at [rakkyrkm@gmail.com](mailto:rakkyrkm@gmail.com)
 *   🚀  I'm currently working on [GPTVtuber](http://github.com/rakky33/GPTVtuber-2.0)
-*   🧠  I'm learning Javascript | C### Skills 
+*   🧠  I'm learning Javascript | C++
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,py,ae,azure,blender,cs,html,pr" /><br>
