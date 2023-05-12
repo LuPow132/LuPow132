@@ -29,4 +29,4 @@ do a bunch of learning coding in free time. I'm currently study in Highschool. F
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/lupowdonationforedu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/LuPowsProject"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
