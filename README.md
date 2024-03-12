@@ -8,7 +8,7 @@ do a bunch of learning coding in free time. I'm currently study in Highschool. F
 
 *   🌍  I'm based in Chonburi , Thailand
 *   ✉️  You can contact me at [rakkyrkm@gmail.com](mailto:rakkyrkm@gmail.com)
-*   🚀  I'm currently working on [RoboCupJuinor](https://github.com/rakky33/RoboCup-Junior)
+*   🚀  I'm currently working on [MarsRoverAutoPilot_NARIT2023](https://github.com/LuPow132/MarsRoverAutoPilot_NARIT2023)
 *   🧠  I'm learning Javascript | C++
 <p align="center">
   <a href="https://skillicons.dev">
