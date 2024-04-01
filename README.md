@@ -1,8 +1,9 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/556721357354696705)](https://discord.com/users/556721357354696705)
+
 Hi  👋 My name is LuPow (Luck)
 ====================================================================================================================================
+[![Discord Presence](https://lanyard.cnrad.dev/api/556721357354696705)](https://discord.com/users/556721357354696705)
 
-I'm a student who love to code try new things.
+I'm a kid who love to code try new things about technology.
 ----------------------------------------------
 
 do a bunch of learning coding in free time. I'm currently study in Highschool. Feel free to ask me anything!
